@@ -1,0 +1,24 @@
+{
+  "name": "burger-app",
+  "version": "1.0.0",
+  "description": "new burger repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsorthep/burger-app.git"
+  },
+  "author": "Det Sorthepharack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dsorthep/burger-app/issues"
+  },
+  "homepage": "https://github.com/Dsorthep/burger-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "sequelize": "^5.21.3"
+  }
+}
