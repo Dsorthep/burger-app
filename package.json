@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/Dsorthep/burger-app#readme",
   "dependencies": {
+    "env": "0.0.2",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
     "path": "^0.12.7",
     "sequelize": "^5.21.3"
   }
