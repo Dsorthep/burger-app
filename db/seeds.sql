@@ -1,10 +1,10 @@
-USE burgers_db;
+-- USE burgers_db;
 
-INSERT INTO burgers (burger_name, devoured)
-VALUES ("Parlour", TRUE);
+-- INSERT INTO burgers (name)
+-- VALUES ("Parlour");
 
-INSERT INTO burgers (burger_name, devoured)
-VALUES ("Revival", FALSE);
+-- INSERT INTO burgers (name)
+-- VALUES ("Revival");
 
-INSERT INTO burgers (burger_name, devoured)
-VALUES ("Blue Door Pub", TRUE);
+-- INSERT INTO burgers (name)
+-- VALUES ("Blue Door Pub");
