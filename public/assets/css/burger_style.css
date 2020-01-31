@@ -1,8 +1,13 @@
 .body {
     background-image: url("../img/burger-monster.jpg");
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: inherit;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: goldenrod;
     height: 100%;
     overflow: hidden;
+
 }
 
 .container {
@@ -15,16 +20,13 @@
     padding-top: 20px;
 }
 
-.burger-js {
-    background-color: #ffffff;
-    margin: 5px 0;
-    padding: 7px;
+.devoured {
+    background-color: #167716;
+    border-radius: 5px;
+    margin: 5px;
+    color: white;
 }
 
-.devoured {
-    background-color: #C7C6C7;
-    padding: 3px;
-    border-bottom: 0.5px #F8F9FA solid;
-    font-size: 13px;
-    
+::placeholder {
+    text-align: center;
 }
