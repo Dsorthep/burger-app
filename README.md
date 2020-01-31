@@ -12,3 +12,5 @@ This app will store every burger in a database, whether devoured or not.
 Try it out!!!
 
 https://dsorthep-burger.herokuapp.com/
+
+![Burger App Demo](public/assets/img/burger-app-demo.gif)
